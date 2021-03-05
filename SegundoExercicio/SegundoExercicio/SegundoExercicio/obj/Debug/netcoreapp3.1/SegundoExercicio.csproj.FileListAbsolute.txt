@@ -1,0 +1,13 @@
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.exe
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.deps.json
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.dll
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\bin\Debug\netcoreapp3.1\SegundoExercicio.pdb
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.dll
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.pdb
+C:\Users\Geison\Documents\C#\Udemy\SegundoExercicio\SegundoExercicio\SegundoExercicio\obj\Debug\netcoreapp3.1\SegundoExercicio.genruntimeconfig.cache

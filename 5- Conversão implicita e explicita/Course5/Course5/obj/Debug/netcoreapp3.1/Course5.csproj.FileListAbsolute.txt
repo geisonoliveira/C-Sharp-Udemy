@@ -1,0 +1,13 @@
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.exe
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.deps.json
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.dll
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\bin\Debug\netcoreapp3.1\Course5.pdb
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.dll
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.pdb
+C:\Users\Geison\Documents\C#\Udemy\Course 5\Course5\Course5\obj\Debug\netcoreapp3.1\Course5.genruntimeconfig.cache

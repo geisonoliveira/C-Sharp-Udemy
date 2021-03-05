@@ -1,0 +1,13 @@
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.exe
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.deps.json
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.dll
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\netcoreapp3.1\FormulaDeBaskara.pdb
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.dll
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.pdb
+C:\Users\Geison\Documents\C#\Udemy\FormulaDeBaskara\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\netcoreapp3.1\FormulaDeBaskara.genruntimeconfig.cache

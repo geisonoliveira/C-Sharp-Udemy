@@ -1,0 +1,12 @@
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.exe
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.deps.json
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\Users\Geison\Documents\C#\Udemy\PrimeiroExercicio\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.exe
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.deps.json
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.dll
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.pdb
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.dll
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.pdb
+C:\Users\Geison\Documents\C#\Udemy\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.genruntimeconfig.cache

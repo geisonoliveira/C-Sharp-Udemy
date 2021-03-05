@@ -1,0 +1,13 @@
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.exe
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.deps.json
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.runtimeconfig.json
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.dll
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\bin\Debug\netcoreapp3.1\Exercicios Propostos 4.pdb
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.AssemblyInfo.cs
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.dll
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.pdb
+C:\Users\Geison\Documents\C#\Udemy\Exercicios propostos 1 - Estrutura Sequencial\Exercicios Propostos 4\Exercicios Propostos 4\obj\Debug\netcoreapp3.1\Exercicios Propostos 4.genruntimeconfig.cache
