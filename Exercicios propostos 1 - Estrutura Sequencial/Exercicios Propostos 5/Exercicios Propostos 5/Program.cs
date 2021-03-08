@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+
 namespace Exercicios_Propostos_5
 {
     class Program
