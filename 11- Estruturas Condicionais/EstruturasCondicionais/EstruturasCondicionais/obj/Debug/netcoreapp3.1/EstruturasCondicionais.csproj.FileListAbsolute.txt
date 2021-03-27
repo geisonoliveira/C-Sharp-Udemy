@@ -11,3 +11,16 @@ C:\Users\Geison\Documents\C#\Udemy\11- Estruturas Condicionais\EstruturasCondici
 C:\Users\Geison\Documents\C#\Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.dll
 C:\Users\Geison\Documents\C#\Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
 C:\Users\Geison\Documents\C#\Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\11- Estruturas Condicionais\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.genruntimeconfig.cache
