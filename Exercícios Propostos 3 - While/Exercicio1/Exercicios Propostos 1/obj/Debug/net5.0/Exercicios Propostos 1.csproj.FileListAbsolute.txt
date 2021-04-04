@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\ref\Exercicios Propostos 1.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\bin\Debug\net5.0\Exercicios Propostos 1.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\ref\Exercicios Propostos 1.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicios Propostos 1\Exercicios Propostos 1\obj\Debug\net5.0\Exercicios Propostos 1.genruntimeconfig.cache

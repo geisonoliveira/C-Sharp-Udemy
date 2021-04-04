@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\ref\Funções.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\bin\Debug\net5.0\Funções.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\ref\Funções.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\12 - Funções\Funções\Funções\obj\Debug\net5.0\Funções.genruntimeconfig.cache

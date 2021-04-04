@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercicios Propostos 2 - Estruturas Condicionais\Exercícios Propostos 8\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache
