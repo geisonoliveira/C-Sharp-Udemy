@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geison\\Documents\\C#\\Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj": {}
+    "C:\\Users\\Geison\\Documents\\C-Sharp-Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geison\\Documents\\C#\\Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj": {
+    "C:\\Users\\Geison\\Documents\\C-Sharp-Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geison\\Documents\\C#\\Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj",
+        "projectUniqueName": "C:\\Users\\Geison\\Documents\\C-Sharp-Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj",
         "projectName": "PrimeiroExercicio",
-        "projectPath": "C:\\Users\\Geison\\Documents\\C#\\Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj",
+        "projectPath": "C:\\Users\\Geison\\Documents\\C-Sharp-Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio.csproj",
         "packagesPath": "C:\\Users\\Geison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geison\\Documents\\C#\\Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\obj\\",
+        "outputPath": "C:\\Users\\Geison\\Documents\\C-Sharp-Udemy\\PrimeiroExercicio\\PrimeiroExercicio\\PrimeiroExercicio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Geison\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

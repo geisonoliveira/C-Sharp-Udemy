@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\ref\RevisãoWhile.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\bin\Debug\net5.0\RevisãoWhile.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\ref\RevisãoWhile.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\RevisãoWhile\RevisãoWhile\obj\Debug\net5.0\RevisãoWhile.genruntimeconfig.cache

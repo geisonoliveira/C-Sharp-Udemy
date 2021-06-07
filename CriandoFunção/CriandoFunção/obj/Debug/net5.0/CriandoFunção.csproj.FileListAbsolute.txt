@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\ref\CriandoFunção.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\bin\Debug\net5.0\CriandoFunção.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\ref\CriandoFunção.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\CriandoFunção\CriandoFunção\obj\Debug\net5.0\CriandoFunção.genruntimeconfig.cache

@@ -13,4 +13,4 @@ C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercici
 C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicio2\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
 C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
 C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache
-C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csprojAssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
