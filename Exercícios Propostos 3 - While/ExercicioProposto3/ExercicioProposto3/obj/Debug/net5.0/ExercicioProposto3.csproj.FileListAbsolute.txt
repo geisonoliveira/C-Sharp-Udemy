@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ref\ExercicioProposto3.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\bin\Debug\net5.0\ExercicioProposto3.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ref\ExercicioProposto3.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 3 - While\ExercicioProposto3\ExercicioProposto3\obj\Debug\net5.0\ExercicioProposto3.genruntimeconfig.cache
