@@ -8,17 +8,20 @@ namespace For
         {
             int senha = 3294;
             
-            Console.WriteLine("Para entrar digite a senha de quatro numeros: ");
+            Console.Write("Quantos numeros inteiros você vai digitar ");
+            int N = int.Parse(Console.ReadLine());
 
-            int entrada = int.Parse(Console.ReadLine());
-
-            while (entrada != senha)
+            int soma = 0;
+            for (int i = 1; i <= N; i++)
             {
-                Console.WriteLine("Senha inválida, tente novamente");
-                entrada = int.Parse(Console.ReadLine());
+                Console.Write($"Valor #{i}: ");
+                int valor = int.Parse(Console.ReadLine());
+
+                soma += valor;
             }
 
-            Console.WriteLine("Bem vindo Senhor Stark");
+            Console.WriteLine($"Soma= {soma}");
+
         }
     }
 }

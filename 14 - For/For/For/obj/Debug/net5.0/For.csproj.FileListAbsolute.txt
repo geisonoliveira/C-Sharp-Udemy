@@ -5,7 +5,6 @@ C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\bin\Debug\net5.0\For.ru
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\bin\Debug\net5.0\For.dll
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\bin\Debug\net5.0\ref\For.dll
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\bin\Debug\net5.0\For.pdb
-C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.csprojAssemblyReference.cache
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.AssemblyInfoInputs.cache
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.dl
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\ref\For.dll
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.pdb
 C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.genruntimeconfig.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\14 - For\For\For\obj\Debug\net5.0\For.csproj.AssemblyReference.cache
