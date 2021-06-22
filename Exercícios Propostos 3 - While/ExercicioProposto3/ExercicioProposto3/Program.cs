@@ -36,11 +36,7 @@ namespace ExercicioProposto3
                 {
                     diesel++;
                 }
-                    
-                else
-                {
-                    
-                }
+                
             }
 
             Console.WriteLine("Muito Obrigado!");

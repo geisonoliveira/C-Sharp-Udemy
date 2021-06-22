@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\ref\Exercicio4.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\ref\Exercicio4.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 4 - For\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.genruntimeconfig.cache
