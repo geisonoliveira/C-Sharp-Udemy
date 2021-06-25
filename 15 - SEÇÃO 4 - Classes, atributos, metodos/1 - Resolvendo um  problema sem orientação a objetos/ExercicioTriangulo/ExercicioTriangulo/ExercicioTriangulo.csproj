@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\2 - Criando uma Classe com 3 atributos\CriandoPrimeiraClasse\CriandoPrimeiraClasse\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
