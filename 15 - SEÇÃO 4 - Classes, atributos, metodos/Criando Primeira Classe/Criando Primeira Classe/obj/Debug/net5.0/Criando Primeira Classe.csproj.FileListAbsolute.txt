@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\ref\Criando Primeira Classe.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\bin\Debug\net5.0\Criando Primeira Classe.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\ref\Criando Primeira Classe.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\15 - SEÇÃO 4 - Classes, atributos, metodos\Criando Primeira Classe\Criando Primeira Classe\obj\Debug\net5.0\Criando Primeira Classe.genruntimeconfig.cache
