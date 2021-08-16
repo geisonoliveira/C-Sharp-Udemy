@@ -16,12 +16,19 @@ namespace SegundoExercicio
             f.Nome = Console.ReadLine();
 
             Console.Write("Salario Bruto: ");
-            f.SalarioBruto = double.Parse(Console.ReadLine());
+            f.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Imposto: ");
-            f.Imposto = double.Parse(Console.ReadLine());
+            f.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine(f.SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine($"Funcionário: {f}");
+
+            Console.Write("Digite a porcentagem para aumentar o salario: ");
+
+            double porcentagem = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            f.AumentarPorcentagem(porcentagem);
+
+            Console.WriteLine($"Dados atualizados: {f}");
         }
     }
 }

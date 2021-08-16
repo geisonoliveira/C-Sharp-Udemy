@@ -15,13 +15,19 @@ namespace SegundoExercicio
         {
             return SalarioBruto - Imposto;
         }
-        //public override string ToString()
-        //{
-        //    return Nome
-        //        + ", $ "
-        //        + SalarioLiquido();
-        //}
+        public double AumentarPorcentagem(double porcentagem)
+        {
+            SalarioBruto = (SalarioBruto * porcentagem / 100) + SalarioBruto;
+            return SalarioBruto - Imposto;
+        }
+        public override string ToString()
+        {
+            return Nome
+                + ", $ "
+                + SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture);
+        }
 
+        
 
     }
 }
