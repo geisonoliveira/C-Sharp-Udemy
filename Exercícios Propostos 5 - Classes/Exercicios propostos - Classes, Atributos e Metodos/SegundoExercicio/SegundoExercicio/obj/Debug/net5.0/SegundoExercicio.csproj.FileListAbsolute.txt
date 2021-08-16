@@ -1,0 +1,16 @@
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.exe
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.deps.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.runtimeconfig.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.runtimeconfig.dev.json
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\ref\SegundoExercicio.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\bin\Debug\net5.0\SegundoExercicio.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\ref\SegundoExercicio.dll
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.pdb
+C:\Users\Geison\Documents\C-Sharp-Udemy\Exercícios Propostos 5 - Classes\Exercicios propostos - Classes, Atributos e Metodos\SegundoExercicio\SegundoExercicio\obj\Debug\net5.0\SegundoExercicio.genruntimeconfig.cache
