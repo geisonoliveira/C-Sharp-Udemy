@@ -19,7 +19,7 @@ namespace TerceiroExercicio
 
        public void Aprovacao()
         {
-            if (NotaFinal() >= 100)
+            if (NotaFinal() >= 60)
             {
                 Situacao = "APROVADO";
             }
@@ -34,7 +34,7 @@ namespace TerceiroExercicio
         {
             if (Situacao == "REPROVADO")
             {
-                NotaRestante = NotaFinal() - 100;
+                NotaRestante = 100 - NotaFinal() ;
             }
 
         }

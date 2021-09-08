@@ -25,7 +25,7 @@ namespace TerceiroExercicio
             a.Restante();
             if (a.Situacao == "REPROVADO")
             {
-                Console.WriteLine(a.NotaRestante.ToString("F2", CultureInfo.InvariantCulture));
+                Console.WriteLine("Nota restante " + a.NotaRestante.ToString("F2", CultureInfo.InvariantCulture));
             }
             
         }
